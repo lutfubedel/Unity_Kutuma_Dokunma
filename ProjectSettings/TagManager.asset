@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Player_1_Tower
+  - Player_2_Tower
+  - MiddleBox
+  - FxTemporaire
+  - GameManager
+  - PlayersWaiting
+  - Player2Name
+  - PowerBar
+  - EndGameText
+  - Panel_End
+  - Player1Name
+  - Player1
+  - Player2
+  - Button_SaveName
+  - ServerInfo
+  - Button_CreateRoom
+  - Button_FastGame
+  - SpawnPoint_1
+  - SpawnPoint_2
+  - FlatBoard
+  - Prize
+  - SpawnPoint_Prize
+  - Ball
+  - ServerManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
