@@ -21,8 +21,8 @@
 - Çok oyunculu işlevler için internet bağlantısı.
 
 ## Oyun İçi Görüntüler
-![Oyun Ekranı](images/ss1.png)
-![Oyun Ekranı](images/ss2.png)
-![Oyun Ekranı](images/ss3.png)
-![Oyun Ekranı](images/ss4.png)
+![Oyun Ekranı](images/ss_1.png)
+![Oyun Ekranı](images/ss_2.png)
+![Oyun Ekranı](images/ss_3.png)
+![Oyun Ekranı](images/ss_4.png)
 
